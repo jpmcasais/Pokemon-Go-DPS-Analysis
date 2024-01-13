@@ -9,6 +9,8 @@ The project will be an ongoing initiative with multiple versions aimed at incorp
 
 This was my first extensive project using Python. I invested a considerable amount of time understanding how to manipulate data effectively to achieve the desired output. The learning experience has been valuable, and I welcome any insights or tips you may have for further improvement. The next steps involve enhancing the visual aspects of the project by leveraging Python. This could include refining the graphical user interface, implementing better data visualization techniques, or exploring libraries like Matplotlib or Seaborn for improved data representation. Your dedication to continuous improvement is commendable, and incorporating visual enhancements can elevate the overall user experience. If you have specific goals or areas you'd like guidance on, feel free to share, and I can provide more targeted suggestions.
 
+The large dataset extracted has been published on Kaggle: https://www.kaggle.com/datasets/joaocasais/pokemon-go-dps-dataset
+
 Feel free to provide any suggestions or feedback on the project. Your input is valuable and can contribute to its improvement.
 
 ##Version 1.0
